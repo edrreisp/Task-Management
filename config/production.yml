@@ -1,2 +1,4 @@
 db:
   synchronize: false
+server:
+  origin: https://nestjs-task-management-frontend-reisp.s3.us-east-2.amazonaws.com
